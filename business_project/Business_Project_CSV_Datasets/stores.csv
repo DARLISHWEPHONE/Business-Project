@@ -1,0 +1,201 @@
+store_id,name,location,manager,open_date
+1,Silva-Burnett,Andrealand,Gary Palmer,2015-05-29 09:43:48
+2,"Welch, Smith and Davis",Lake Matthewview,Steven Cardenas,2022-02-18 10:33:47
+3,Martinez-Jackson,East Natalie,Kimberly Heath,2019-09-23 16:53:29
+4,Gardner Group,East Amanda,Nancy Thompson,2016-01-26 19:36:30
+5,"Barton, Keller and Johnson",South Andre,Kathleen Garcia,2018-12-24 21:00:03
+6,Contreras and Sons,West Bradleyside,Taylor Lin,2016-04-28 05:52:19
+7,Thomas-Schmidt,North Jamesport,Mary Dixon,2021-03-26 04:32:23
+8,"Walsh, Smith and Downs",Barajasland,Alex Ballard,2017-04-11 17:00:59
+9,"Farrell, Johnson and Mccarty",Port Vickistad,Bobby Hammond,2018-03-21 15:14:16
+10,Hicks Group,Onealmouth,Glen Harrell,2022-11-27 18:22:42
+11,"Benson, Delacruz and Keith",Lake Derekchester,Evan Scott,2020-05-13 09:22:48
+12,Walker-Hughes,Lisachester,Mr. Henry Pace,2017-02-01 17:30:57
+13,Griffin LLC,South Paula,Kyle Hernandez,2015-02-13 14:28:29
+14,Boyd LLC,Jeffreyburgh,Richard Robles,2022-10-07 19:38:45
+15,"Reese, Rodriguez and Hoover",East David,Charles Solomon,2016-02-03 18:38:10
+16,"Johnston, Ortiz and Williamson",North Deborah,Amber Phelps,2021-05-07 15:51:45
+17,Martin-Davis,Lake John,David Smith,2016-09-11 12:34:57
+18,"Cole, Liu and Jones",Hatfieldside,Natalie Newton,2020-06-26 20:23:38
+19,"Murphy, Lopez and Jennings",Masonfort,Cameron Smith,2016-10-16 20:59:23
+20,Cruz-Harris,Stephenburgh,Michelle Owen,2018-09-24 02:20:04
+21,"Ferrell, Ryan and Burch",New Daniellestad,Christopher Baker,2020-03-05 17:34:24
+22,Brady-Burton,Murphyfurt,Gregory Jacobs,2021-09-20 12:50:31
+23,"Andersen, Simpson and Stone",Johnsontown,Jennifer Stevenson,2016-01-12 08:22:52
+24,Perez-Walter,North Monicafort,Antonio Smith,2016-02-18 05:59:35
+25,"Owens, Martinez and West",North Holly,Cheryl Curry,2015-08-21 04:21:17
+26,Short-Stewart,Angelaville,Keith Cole,2020-06-17 04:46:57
+27,Blankenship PLC,West Phyllis,Michael Mendez,2017-10-19 08:06:32
+28,Fleming PLC,West Joannbury,Noah Porter,2017-02-14 15:45:14
+29,Garner-Peterson,Clayborough,Aaron Henry,2017-01-02 10:38:47
+30,Estrada PLC,Matthewsside,Elaine Silva,2016-06-18 06:29:52
+31,"Montoya, Kerr and Leonard",Andrewshire,Susan Evans,2020-09-24 18:31:33
+32,"Miller, Rose and Boyer",Christopherville,James Frye,2022-08-05 21:26:26
+33,Alvarado-Johnson,New Amy,Nicholas Young,2019-12-07 09:52:34
+34,Nelson-Hinton,West Shannonberg,Shaun Zhang,2020-06-27 21:52:13
+35,"Kim, Mclean and Lopez",North Julia,Katherine Wallace,2022-05-20 20:36:36
+36,"Walton, Nelson and Burke",East Lindachester,Abigail Frost,2021-07-25 00:34:44
+37,Kirk LLC,Cynthiastad,Ryan Weber,2016-08-28 21:28:47
+38,Adams PLC,West Johnside,Jennifer Brown,2021-09-10 06:51:39
+39,Curry Inc,Francisfurt,Anthony Horn,2022-11-20 20:57:11
+40,"Bennett, Green and Gutierrez",East Jason,Lauren Butler,2021-03-28 16:07:33
+41,"Wilson, Morton and Keith",Manuelstad,Matthew Smith,2015-05-23 13:36:30
+42,"Howell, Horn and Craig",North Michellehaven,Stephen Herring,2016-03-08 21:36:43
+43,Ward Ltd,Hallside,Lindsey Clark,2018-02-18 07:20:06
+44,Garcia Ltd,Lake Gabrielshire,Ashley Kennedy,2017-01-11 22:30:17
+45,"Thomas, Fernandez and Hughes",Smithside,Linda Brown,2015-06-17 05:42:06
+46,Gonzalez and Sons,East Natasha,Tiffany Cruz,2019-02-15 21:55:30
+47,Boyd LLC,Lake Christopherport,Ricky Buchanan,2018-12-27 23:52:49
+48,Pace-Lewis,Port Heathermouth,Tony Mccoy,2021-05-07 21:49:22
+49,Williams Inc,Lake Cathy,Jason Freeman,2021-12-25 01:47:38
+50,Middleton-Hughes,West Emily,Susan Hunter,2016-12-15 21:41:05
+51,Snyder Inc,Kevinmouth,Sarah Sampson,2020-01-27 10:49:30
+52,Calderon-Norman,West Lisa,Dylan Thomas,2021-01-29 01:15:12
+53,Walker-Howard,Jamesfort,Norma Burke,2020-07-29 09:04:59
+54,"Bass, Reed and Stewart",South Patriciaville,Karen Kelly,2019-07-13 02:24:01
+55,Brooks-Alvarado,Port Christine,Melissa Landry,2016-08-15 05:43:27
+56,Santiago and Sons,Jasmineberg,Eric Young,2021-05-29 12:57:09
+57,Gutierrez LLC,Davisbury,Tammy Young,2016-09-09 02:43:32
+58,Boyer-Miller,Port Gregory,Dustin Costa,2018-06-12 22:58:27
+59,Christian-Obrien,Port Timothyshire,Jaime Watson,2020-04-19 18:27:39
+60,"Coleman, Adams and Todd",Longhaven,Morgan Lyons,2020-07-19 22:29:38
+61,Moran-Barnett,Christopherfurt,Patrick Chan,2022-09-29 06:41:25
+62,"Miller, Meyer and Vargas",Bautistabury,Eric Mathis,2019-03-27 07:29:20
+63,"Smith, Gray and Vargas",Rayland,Jacqueline Chandler,2018-11-19 00:00:12
+64,"Morales, Parker and Merritt",Lake Elizabeth,Christine Rogers,2016-06-26 16:23:28
+65,Mckay-Andrade,Holmesbury,Donald Weber,2021-06-01 00:12:59
+66,Crane-Banks,Barnesberg,Kyle Anderson,2020-04-02 12:44:11
+67,Combs Inc,Vaughnside,Justin Jordan PhD,2018-10-28 11:38:52
+68,Martin-Wood,Mauriceburgh,Adam Rubio,2016-03-08 19:51:21
+69,"Clark, Sanford and Cruz",New Nancymouth,Jennifer Gillespie,2021-12-10 17:18:48
+70,Lang and Sons,Millerview,Amanda Martin,2017-09-10 21:35:31
+71,"Schmidt, Leonard and Lynch",Nicholsonmouth,Calvin Johnson,2016-12-04 03:34:48
+72,"Jones, Lawson and Rodriguez",North Brianna,Kyle Cohen,2018-09-23 14:43:50
+73,Combs-Fletcher,South Joel,Alisha Williams,2022-11-12 21:22:08
+74,"Johnson, Jones and Cabrera",Mendezberg,William Barber,2016-03-27 18:00:39
+75,Young-Reilly,Johnsonchester,Katherine Vaughan,2021-06-08 22:05:46
+76,Wagner Inc,Stricklandville,Elizabeth Norris MD,2018-12-17 09:34:06
+77,Hurst LLC,Lauraside,Ronald Buckley,2022-03-26 00:25:55
+78,Kim LLC,Port Kennethstad,Brandon Roberts,2022-04-27 22:02:37
+79,Davis-Johnson,Lindaview,Natasha Swanson,2017-02-05 11:19:00
+80,"Jones, Carlson and Hanson",Shawnafort,Eric Schmitt,2019-07-24 14:34:05
+81,"Watson, Maldonado and Lyons",Garrettview,Rebecca Meyer,2016-03-28 01:38:04
+82,Clark-Fowler,Melissaview,Sydney Tapia,2021-06-07 17:14:38
+83,Ellis-Osborne,South Tanya,Monica Baldwin,2016-03-15 02:28:58
+84,Hernandez Inc,Gonzalesfort,Charles Anderson,2021-05-22 04:00:50
+85,Hanson-Young,Port Nicholas,Mrs. Karen Garner,2019-04-15 03:06:53
+86,Webster Group,Wallacestad,Brandon Payne,2017-04-19 11:05:35
+87,Olson-Ibarra,North Christopher,John Little,2020-01-10 15:33:38
+88,"Boone, Miller and Rodriguez",Davilamouth,Jessica Williams,2022-02-26 05:33:58
+89,Mosley-Roach,Kaylaburgh,Kevin Johnston,2018-12-02 04:29:04
+90,Hernandez Inc,Kellyview,David Castro,2020-12-18 13:38:28
+91,Maldonado-Washington,Lake Thomasville,William Garcia,2021-04-30 20:49:15
+92,Robinson LLC,North Cassandra,Christopher Woods,2020-02-09 00:11:54
+93,Chen-Wright,East Tiffany,Andrea Fisher,2016-05-28 21:44:30
+94,Lin LLC,Kimberlyside,Jesse Mclean,2020-01-24 02:33:16
+95,"Villarreal, Mack and Wagner",Transhire,Harold Aguilar,2018-05-22 11:08:12
+96,Allen and Sons,Kyletown,Dr. Robert Green DDS,2016-05-30 00:56:45
+97,"Thomas, Johnson and Ward",New Robert,Richard Gray,2020-10-18 20:08:04
+98,Henderson PLC,Ortizfort,Jay Mcdonald,2016-02-25 06:43:36
+99,Lang PLC,Lake Melissa,Michelle Hoover,2019-09-07 00:18:32
+100,Friedman-Gonzalez,Veronicamouth,Christopher Estrada,2017-09-09 12:36:42
+101,Warner-Cain,North Monicaland,Christopher Todd,2020-09-17 08:23:20
+102,Snow-Park,Lake Wendyhaven,Monique West,2020-02-17 02:15:59
+103,Young-Hudson,North Charles,Victoria Rollins,2018-08-05 20:57:09
+104,Villegas-Vazquez,Port Tracy,Mark Monroe,2019-06-05 18:06:29
+105,Burke PLC,New Mercedeston,Maria Walsh,2019-12-14 00:26:53
+106,Raymond-Tucker,Sandovalton,Jonathan Chapman,2022-12-01 13:28:14
+107,Nichols-Black,Hectorberg,Walter Martin,2021-02-26 14:47:09
+108,"Dixon, Dickerson and Anderson",Port Virginiaport,Megan Medina,2022-03-17 17:19:57
+109,Holloway-Estes,North Angie,Wesley Moore,2016-10-05 15:00:27
+110,Brown-Meyer,Ashleyshire,Kristina Jones,2015-05-12 03:14:10
+111,Griffin and Sons,Port Chad,Lance Shepard,2018-02-06 23:30:15
+112,Newman and Sons,Josephfort,Daniel Obrien,2015-02-11 14:02:32
+113,Owens-Gentry,North Angela,Garrett House,2021-02-13 11:28:05
+114,"Gregory, Shields and Roberson",Angelaland,Nicholas Mccann,2017-01-08 15:38:26
+115,"Murray, Cortez and Tate",Cherylstad,Patty Pittman,2017-10-30 04:31:28
+116,Davis Inc,Patriciashire,Heather Hays,2018-04-10 11:41:10
+117,Hawkins LLC,New Christophermouth,Jessica Harris,2018-12-23 09:08:11
+118,"Bennett, Rollins and Thomas",South Emily,Melanie Curtis,2018-11-22 03:19:35
+119,Ryan-Hall,East Elizabeth,Terry Williams,2018-02-11 12:15:47
+120,Hoffman and Sons,New Katherineburgh,Carrie Miller,2021-09-16 21:39:45
+121,"Peterson, Moore and Spencer",Priceport,Joseph Stafford,2017-04-27 07:59:13
+122,"Jordan, Fisher and Moody",Coletown,Mr. Christopher Castillo III,2021-01-11 22:36:36
+123,Gray-Zimmerman,South Stephen,Scott Rodriguez,2019-04-03 17:57:06
+124,"Massey, Gillespie and Francis",Samanthaton,Dawn Ayala,2015-03-06 06:26:24
+125,Scott Ltd,Jonesborough,Christine Sandoval,2019-01-10 19:35:41
+126,Tate LLC,West Brentland,Kimberly Clark,2019-01-17 02:41:27
+127,"Mccann, Mason and Mitchell",Kellytown,Devon Rivers,2015-05-21 02:39:40
+128,Lopez PLC,East Michelleton,Sheri Johnson,2016-01-17 14:23:02
+129,Villarreal LLC,Julieton,Steven Rogers,2015-08-19 19:51:35
+130,King-Fields,Port Lisa,Melissa Mullen,2015-11-12 08:59:59
+131,Clark-Miles,Lake Jacquelinefurt,Lori Matthews,2022-01-20 20:55:05
+132,"Rodriguez, Callahan and Lopez",Lake Jason,Tiffany Cooper,2022-03-13 00:47:28
+133,"Dean, Davis and Pierce",East Dylanland,Jill Doyle,2022-08-07 04:31:54
+134,"Cox, Dickerson and Crawford",Perryview,Andrea Ramirez,2022-10-26 18:31:34
+135,"Rios, Singh and Lopez",Lake Alex,Sonia Sanders,2018-06-28 22:42:26
+136,Hall and Sons,East Darrellmouth,Matthew West,2018-03-27 04:59:02
+137,"Solis, Cooper and Gilmore",East Patrick,Mrs. Yvonne Ramirez,2022-09-25 17:05:05
+138,Bridges-Harris,South Rachelshire,David Garza,2020-05-31 12:19:39
+139,Dodson LLC,Krystalstad,Jeffrey Sanchez,2022-07-05 03:02:24
+140,Hall-Arellano,Thomasmouth,Jennifer Butler,2016-07-03 13:32:23
+141,Davis Ltd,Ashleyburgh,David Robinson,2016-06-30 02:59:45
+142,"Crane, Rogers and Simmons",Berryland,Samuel White,2019-03-22 20:59:15
+143,Welch Ltd,Juliefurt,Jacob Allen,2018-05-07 12:16:11
+144,"Nguyen, Johnson and Osborne",Lake Laurenmouth,Justin Jones,2015-09-25 15:43:00
+145,Schroeder-Clark,South Dariusburgh,John Richardson,2018-08-05 06:25:12
+146,"Romero, Hubbard and Jimenez",New Lorraine,Christina Santiago,2016-01-06 00:59:55
+147,"Hayes, Gomez and Lopez",Jonesfurt,William Hill,2018-02-25 01:57:42
+148,"Macias, Sims and Lewis",New Aimeeport,Peter Stein,2020-05-29 16:30:59
+149,"Clark, Bowman and Gomez",South Ronaldville,Scott Butler,2022-01-22 22:39:25
+150,Kemp-Anderson,North Anthony,Leslie Adams,2022-12-08 15:17:24
+151,Murray-Graham,West Scottport,Tanner Rodriguez,2019-05-03 20:12:02
+152,Stevens-Rowe,Donbury,Ian George,2021-12-11 10:02:15
+153,Schneider-Stokes,South Ann,Matthew Haley,2022-01-19 03:57:38
+154,"Park, Christensen and Smith",Port Regina,John Wade,2020-11-25 13:53:52
+155,Simpson Group,Stantonland,Jose Avery MD,2020-03-28 02:27:14
+156,Page-Harding,Lake Michaelview,Danny Mccarty,2015-03-11 06:14:36
+157,Moran PLC,South Robertborough,Albert Werner,2022-09-15 14:23:06
+158,"Villa, Brown and Hancock",Robinport,Robert Murphy,2018-03-13 21:25:16
+159,"Mcmillan, Bishop and Payne",Michaelborough,Nicole Cortez,2020-11-10 09:47:00
+160,Smith Group,Port Pamelafurt,Shelly Patel,2017-12-07 22:58:16
+161,Sanders PLC,East Thomas,Catherine Chambers,2022-05-20 22:02:38
+162,Cook Inc,New Laurenchester,Joseph Fisher,2020-04-05 01:06:14
+163,"Conley, Watson and Holloway",Port Gabriel,Rebecca Wallace,2019-10-12 23:04:25
+164,"Orr, Duran and West",Ryanfurt,Tristan Garrison,2022-11-28 10:51:25
+165,Butler Group,New Christyfort,Brittany Weber,2017-03-27 22:35:19
+166,"Brown, Martinez and Downs",Floreshaven,Kevin Davis,2016-07-25 15:46:33
+167,Curry Inc,West Nicole,Anita Reynolds,2022-06-29 23:00:41
+168,Roberts LLC,Stricklandmouth,Tina Hamilton,2017-09-23 03:32:06
+169,"Green, Stein and Phillips",Lake Josetown,Charles Woods,2022-07-17 17:32:31
+170,"Martin, Hughes and Torres",Lake Amy,Erik Powers,2018-07-04 23:23:13
+171,Brown Ltd,Greenside,Victoria Barnes,2021-03-24 21:59:32
+172,Erickson Group,Port Deborah,Michael Garcia,2015-05-07 10:18:02
+173,Parsons-Howell,Leeville,Michael Mcmillan,2020-09-27 17:36:34
+174,Hammond-Schmidt,West James,Luke Pena,2017-12-16 18:23:39
+175,West Group,Michaelbury,Tasha Mccoy,2022-05-22 17:39:19
+176,Logan LLC,Melvinchester,Morgan Molina,2018-04-18 13:12:11
+177,"Wagner, Davis and Williams",North Steven,Jeffery Mullen,2020-02-22 12:22:16
+178,Turner-Boyd,North Rhonda,Christopher Weeks,2021-12-01 21:05:08
+179,Johnston-White,Butlerton,Kevin Sanford,2015-02-21 12:17:13
+180,"Hickman, Malone and Dixon",North Katelynshire,Richard Bell,2016-08-11 08:29:11
+181,Webb-Pope,Maryberg,Caleb Walker,2021-08-20 01:09:21
+182,"Owens, Dixon and Le",Gonzalezfort,Robert Taylor,2017-03-15 12:47:33
+183,Fleming-Cook,East Laurieborough,Alicia Thomas,2021-04-09 17:47:27
+184,Smith Group,New Tonyachester,Nathan Reilly,2017-01-24 04:42:13
+185,Smith Ltd,West Wayne,Rodney Nguyen,2016-11-28 13:55:31
+186,"Jacobs, Zamora and Hill",Port Justin,Jeremiah Mccoy,2022-10-25 07:18:01
+187,Smith Group,West Tammyton,George Smith,2016-11-20 00:55:42
+188,"Atkinson, Lee and Lang",Johnsshire,Cindy Walker,2020-08-06 08:24:08
+189,Wilson Ltd,West Isaacbury,John Jennings,2020-01-15 16:40:20
+190,Coleman-Barnett,Virginiaside,Kelly Martinez,2022-01-20 03:38:44
+191,Velez-Gregory,East Dennis,Cynthia Christian,2022-10-25 06:00:41
+192,Buckley-Santiago,Lake Kennethfort,Alexis Chambers,2015-10-28 02:12:43
+193,"Floyd, Walker and Lee",Angelaville,Nathan Payne,2015-08-23 00:45:07
+194,Walters Inc,Terryfort,Timothy Lopez,2016-01-10 05:03:30
+195,Stewart Inc,Petersenmouth,Randall Ward,2021-04-04 09:21:47
+196,Hunter Inc,Brookeborough,Jeffrey Allen,2022-12-23 19:37:40
+197,Butler-Kemp,Elizabethside,Kimberly Lewis,2017-06-24 21:24:44
+198,Young Inc,Butlerside,Jeffrey Gray,2022-10-31 03:45:13
+199,Anderson LLC,South Victorside,Michael Beck,2020-11-10 15:47:11
+200,Miller-Cabrera,East Tracyburgh,Bob Scott,2018-12-16 20:34:27
